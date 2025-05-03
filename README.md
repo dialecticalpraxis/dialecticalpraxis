@@ -1,4 +1,15 @@
-## Hi there 👋
+# Derron 
+
+
+ <img src="derron.png" align="right" width="300" alt="Middle-aged man with short hair and gray beard, wearing a blue t-shirt, looking off to the side in front of a graffiti wall" />
+
+
+
+  <p aligh="left" >/ˈdɛər.ən/ 
+
+PhD student, social epistemology of adult learning 👨🏼‍🎓 | Higher ed professional🎓 |  Sociolinguist🗯️ | Book Lover 📚🧝🏾‍♂️ | Crafter🧶🪡 | Writer 📝 | Marxist 🌹 | Vegan🌱
+</p>
+
 
 <!--
 **derronborders/derronborders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
